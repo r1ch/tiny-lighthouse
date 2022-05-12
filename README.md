@@ -6,6 +6,8 @@ Python code for a Raspberry Pico + Pimoroni Unicorn Pack
 
 Wake / sleep hints for little kidlets with red / green leds.
 
+Set the current time and switching times for red, white, green lights.
+
 ### Operation
 
 Use buttons A,B to cycle modes
