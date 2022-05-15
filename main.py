@@ -202,5 +202,3 @@ while True:
             sleep = sleep * 0.2
     else:
         sleep = 0.5
-        
-        
